@@ -10,7 +10,7 @@
 
     "Vless_UUID": {
       "description": "Vless uuid（http://www.uuid.online/在线生成）",
-      "value": "5c301bb8-6c77-41a0-a606-4ba11bbab084"
+      "value": "26190e7a-f0f5-4b24-a3d9-d650efdf7fa5"
     },
 
     "Vless_Path": {
@@ -19,7 +19,7 @@
     },
     "Vmess_UUID": {
       "description": "Vmess uuid（http://www.uuid.online/在线生成）",
-      "value": "5c301bb8-6c77-41a0-a606-4ba11bbab084"
+      "value": "26190e7a-f0f5-4b24-a3d9-d650efdf7fa5"
     },
 
     "Vmess_Path": {
@@ -37,7 +37,7 @@
        "value": "latest"
      }
   },
-  "website": "",
-  "repository": "",
+  "website": "https://github.com/fmgrtndz/strynyerykk",
+  "repository": "https://github.com/fmgrtndz/strynyerykk",
   "stack": "container"
  }
